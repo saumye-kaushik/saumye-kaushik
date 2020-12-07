@@ -13,7 +13,7 @@ I am a Business Intelligence Analyst and Data Engineer. I love working on projec
 
 <a href="https://saumye-kaushik.github.io" target="_blank"><img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/website.png" alt="website" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/saumye-kaushik" target="_blank"><img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/linkedin.png" alt="linkedin" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:saumye.ks@gmail.com" target="_blank"><img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/website.png" alt="email" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:saumye.ks@gmail.com" target="_blank"><img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/email.png" alt="email" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
 </br></br>
 
 ### Languages and Tools:
