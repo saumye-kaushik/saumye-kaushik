@@ -3,7 +3,7 @@
 I am a Business Intelligence Analyst and Data Engineer. I love working on projects that revolve around setting up data tools and developing automated data pipelines.
 
 - 🔭 I’m currently working on developing analytics pipelines for tracking COVID-19 metrics.
-- 🌱 I’m learning on expanding my technical stack in the field of data engineering.
+- 🌱 I’m learning to expand my technical stack in the field of data engineering.
 - 👯 I’m looking to collaborate on projects around Cloud Infrastructure- AWS/Azure/GCP, and the Apache stack.
 - 💬 Ask me about questions in the business intelligence field.
 - 😄 Pronouns: He/His/Him
