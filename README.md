@@ -1,6 +1,6 @@
 ### Hi there, I am Saumye Kaushik 👋
 
-<!--
+
 **saumye-kaushik/saumye-kaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a Data Engineer and Business Intelligence Engineer. I love working on projects that revolve around setting data tools and developing automated data pipelines.
@@ -14,4 +14,4 @@ I am a Data Engineer and Business Intelligence Engineer. I love working on proje
 - ⚡ Fun fact: ...
 
 [![Saumye's github stats](https://github-readme-stats.vercel.app/api?username=saumye-kaushik&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
--->
+
