@@ -1,9 +1,9 @@
 ### Hi there, I am Saumye Kaushik 👋
 
-I am a Business Intelligence Analyst and Data Engineer. I love working on projects that revolve around setting up data tools and developing automated data pipelines.
+I like **Data Analysis**, **Data Engineering** and **Business Intelligence**. I enjoy working on projects that revolve around setting up data tools and developing automated data pipelines.
 
 - 🔭 I’m currently working on developing analytics pipelines for tracking COVID-19 metrics.
-- 🌱 I’m learning to expand my technical stack in the field of data engineering.
+- 🌱 I’m learning to expand my technical stack in the field of data engineering, specifically Airflow, Kafka and AWS.
 - 👯 I’m looking to collaborate on projects around Cloud Infrastructure- AWS/Azure/GCP, and the Apache stack.
 - 💬 Ask me about questions in the business intelligence field.
 - 😄 Pronouns: He/His/Him
@@ -28,6 +28,7 @@ I am a Business Intelligence Analyst and Data Engineer. I love working on projec
 <img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/aws.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/tableau.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/powerbi.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/bash.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/sql.png" height="30" />&nbsp;&nbsp;&nbsp;
 </br>
 
