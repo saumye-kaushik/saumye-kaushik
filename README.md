@@ -36,6 +36,7 @@ I am a Business Intelligence Analyst and Data Engineer. I love working on projec
 <img alt="Saumye's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saumye-kaushik&show_icons=true&hide_border=true" /> 
 </p>
 
+![](https://komarev.com/ghpvc/?username=saumye-kaushik)
 
 
 
