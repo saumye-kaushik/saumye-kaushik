@@ -41,6 +41,10 @@ I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I 
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumye-kaushik&layout=compact" />
 </p>
 
+<p align="center">
+<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=saumye-kaushik" />
+</p>
+
 ![](https://komarev.com/ghpvc/?username=saumye-kaushik)
 
 
