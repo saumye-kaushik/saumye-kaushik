@@ -34,7 +34,7 @@ I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I 
 
 
 <p align="center">
-<img alt="Github Stats" src="https://github-readme-stats-saumye-kaushik.vercel.app?username=saumye-kaushik&show_icons=true&hide_border=true&count_private=true&theme=outrun&custom_title=GitHub Stats" /> 
+<img alt="Github Stats" src="https://github-readme-stats-saumye-kaushik.vercel.app/api?username=saumye-kaushik&show_icons=true&hide_border=true&count_private=true&theme=outrun&custom_title=GitHub Stats" /> 
 </p>
 
 <p align="center">
