@@ -38,7 +38,7 @@ I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I 
 </p>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumye-kaushik&layout=compact)](https://github.com/saumye-kaushik/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumye-kaushik&layout=compact)](https://github.com/saumye-kaushik/github-readme-stats)
 </p>
 
 ![](https://komarev.com/ghpvc/?username=saumye-kaushik)
