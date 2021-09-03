@@ -34,11 +34,11 @@ I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I 
 
 
 <p align="center">
-<img alt="Saumye's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saumye-kaushik&show_icons=true&hide_border=true&count_private=true&theme=outrun" /> 
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=saumye-kaushik&show_icons=true&hide_border=true&count_private=true&theme=outrun" /> 
 </p>
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumye-kaushik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumye-kaushik&layout=compact" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=saumye-kaushik)
