@@ -42,7 +42,7 @@ I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I 
 *Note: This chart is not indicative of my proficiency with a language. Its a metric to show the languages I push the code in. Also, Jupyter notebook is not exactly a language* ¯\\_(ツ)_/¯
 
 <p align="center">
-<img alt="Top Langs" src="https://github-readme-stats-saumye-kaushik.vercel.app/api/top-langs/?username=saumye-kaushik&custom_title=Top Languages" />
+<img alt="Top Langs" src="https://github-readme-stats-saumye-kaushik.vercel.app/api/top-langs/?username=saumye-kaushik&layout=compact&custom_title=Top Languages" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=saumye-kaushik)
