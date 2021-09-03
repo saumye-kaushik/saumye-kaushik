@@ -39,7 +39,7 @@ I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I 
 <img alt="Github Stats" src="https://github-readme-stats-saumye-kaushik.vercel.app/api?username=saumye-kaushik&show_icons=true&hide_border=true&count_private=true&theme=outrun&custom_title=GitHub Stats" /> 
 </p>
 
-*Note: This chart is not indicative of my proficiency with a language. Its a metric to show the languages I push the code in. Also, Jupyter notebook is not exactly a language * ¯\_(ツ)_/¯
+* Note: This chart is not indicative of my proficiency with a language. Its a metric to show the languages I push the code in. Also, Jupyter notebook is not exactly a language * ¯\_(ツ)_/¯
 
 <p align="center">
 <img alt="Top Langs" src="https://github-readme-stats-saumye-kaushik.vercel.app/api/top-langs/?username=saumye-kaushik&layout=compact&custom_title=Top Languages" />
