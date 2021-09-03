@@ -11,9 +11,11 @@ I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I 
 
 ### Reach me at:
 
-<a href="https://saumyekaushik.com" target="_blank"><img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/website.png" alt="website" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:saumye.ks@gmail.com" target="_blank"><img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/email.png" alt="email" width="30" height="30">
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/saumye-kaushik" target="_blank"><img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/linkedin.png" alt="linkedin" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:saumye.ks@gmail.com" target="_blank"><img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/email.png" alt="email" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://saumyekaushik.com" target="_blank"><img src="https://github.com/saumye-kaushik/saumye-kaushik/blob/main/assets/website.png" alt="website" width="30" height="30">
+</a>&nbsp;&nbsp;&nbsp;
 </br></br>
 
 ### Languages and Tools:
@@ -38,7 +40,7 @@ I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I 
 </p>
 
 <p align="center">
-<img alt="Top Langs" src="https://github-readme-stats-saumye-kaushik.vercel.app/api/top-langs/?username=saumye-kaushik&layout=compact&hide=jupyter%20notebook&custom_title=Top Languages" />
+<img alt="Top Langs" src="https://github-readme-stats-saumye-kaushik.vercel.app/api/top-langs/?username=saumye-kaushik&layout=compact&custom_title=Top Languages" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=saumye-kaushik)
