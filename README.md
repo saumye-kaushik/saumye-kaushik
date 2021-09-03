@@ -2,7 +2,7 @@
 
 I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I enjoy working on projects that revolve around setting up data tools and developing automated data pipelines.
 
-- 🔭 I’m currently working as a Data Engineer at Healthcrowd.
+- 🔭 I’m currently working as a Software Engineer, Dev/DataOps at Healthcrowd.
 - 🌱 I’m learning to expand my technical stack in the field of data engineering, specifically Airflow, Kafka and AWS.
 - 👯 I’m looking to collaborate on projects around Cloud Infrastructure- AWS/Azure/GCP, and the Apache stack.
 - 💬 Ask me about questions in the business intelligence and data engineering fields.
