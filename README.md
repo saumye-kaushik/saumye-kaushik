@@ -34,7 +34,7 @@ I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I 
 
 
 <p align="center">
-<img alt="Saumye's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saumye-kaushik&show_icons=true&hide_border=true" /> 
+<img alt="Saumye's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saumye-kaushik&show_icons=true&hide_border=true&count_private=true&theme=outrun" /> 
 </p>
 
 ![](https://komarev.com/ghpvc/?username=saumye-kaushik)
