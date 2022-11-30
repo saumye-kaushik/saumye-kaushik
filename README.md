@@ -35,16 +35,13 @@ I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I 
 </br>
 
 
-<p align="center">
 [![Saumye's github stats](https://github-readme-stats.vercel.app/api?username=saumye-kaushik&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 *Note: This chart is not indicative of my proficiency with a language. Its a metric to show the languages I push the code in!*
 
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumye-kaushik&tsdsfs=sdfds&layout=compact&custom_title=Top Languages)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumye-kaushik&tsdsfs=sdfds&layout=compact&custom_title=Top Languages)](https://github.com/anuraghazra/github-readme-stats)
+  
 ![](https://komarev.com/ghpvc/?username=saumye-kaushik)
 
 
