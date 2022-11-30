@@ -1,6 +1,6 @@
 ### Hi there, I am Saumye Kaushik 👋
 
-I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I enjoy working on projects that revolve around setting up data tools and developing automated data pipelines.
+I like **Data Engineering**, **Business Intelligence** and **Software Design**. I enjoy working on projects that revolve around setting up data tools and developing automated data pipelines.
 
 - 🔭 I’m currently working as a Software Engineer at mPulse Mobile.
 - 🌱 I’m learning to expand my technical stack in the field of data engineering, specifically Airflow, Kafka and AWS.
@@ -35,12 +35,11 @@ I like **Data Engineering**, **Business Intelligence** and **Data Analysis**. I 
 </br>
 
 
-[![Saumye's github stats](https://github-readme-stats.vercel.app/api?username=saumye-kaushik&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Saumye's github stats](https://github-readme-stats-saumye-kaushik.vercel.app/api?username=saumye-kaushik&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-*Note: This chart is not indicative of my proficiency with a language. Its a metric to show the languages I push the code in!*
+*Note: The chart below is not indicative of my proficiency with a language. Its a metric to show the languages I push the code in!*
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumye-kaushik&tsdsfs=sdfds&layout=compact&custom_title=Top Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![Saumye's Top Langs](https://github-readme-stats-saumye-kaushik.vercel.app/api/top-langs/?username=saumye-kaushik&layout=compact&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
   
 ![](https://komarev.com/ghpvc/?username=saumye-kaushik)
 
