@@ -1,4 +1,4 @@
-### Hi there, I am Saumye Kaushik 👋
+### Hi there, I am Saumye 👋
 
 I like **Data Engineering**, **Business Intelligence** and **Software Design**. I enjoy working on projects that revolve around setting up data tools and developing automated data pipelines.
 
